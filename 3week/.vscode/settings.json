@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "deque": "cpp",
+        "ostream": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp",
+        "list": "cpp"
+    }
+}
